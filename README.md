@@ -1,9 +1,24 @@
 # Supply_Chain_Optimization
 
+## Table of Contents
 
-### Executive Summary
+- [Project Overview](#project-overview)
+- [Data Overview](#data-overview)
+- [Key Analyses and Findings](#key-analyses-and-findings)
+  - [Demand and Supply Analyses](#demand-and-supply-analyses)
+  - [Cost Analysis](#cost-analyses)
+  - [Lead Time Analysis](#lead-time-analysis)
+  - [Bottleneck Identification](#bottleneck-identification)
+  - [Improvement Suggestions](#improvement-suggestions)
+ 
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
 
-This report presents the findings of a comprehensive supply chain analysis performed on a synthesized dataset representing key supply chain factors such as supplier delivery times, production costs, logistics costs, and demand-supply dynamics. The goal was to identify potential bottlenecks and suggest improvements to enhance efficiency and reduce overall costs.
+
+
+### Project Overview
+
+This project involves a comprehensive analysis of supply chain data to identify bottlenecks and suggest improvements to enhance efficiency and reduce costs. The dataset includes 1,000 records covering various aspects of the supply chain such as supplier delivery times, production costs, logistics costs, demand, lead times, safety stock levels, order quantities, delivery frequency, and warehouse storage costs.
 
 
 ### Data Overview
@@ -48,23 +63,18 @@ The dataset includes 1,000 records covering various aspects of the supply chain,
       - Align order quantities more closely with demand to reduce inventory costs.
       - Optimize safety stock levels to free up capital and storage space.
       - Explore logistics optimizations like bulk shipping or consolidated shipments.
+      
 
 
-### Visualizations and Interpretations
+### Recommendations
 
-Scatter plots and density distributions were used to visualize the data. Key visualizations include comparisons of demand, order quantities, and safety stock, as well as production and logistics costs. A critical scatter plot highlighted products with high lead times and high production costs, pinpointing them as areas for immediate improvement.
-
-
-### Conclusions and Recommendations
-
-- The analysis has revealed several potential bottlenecks and areas for optimization. By addressing these, the company can significantly enhance its supply chain efficiency and cost-effectiveness. Key - 
-  recommendations include:
-- Focusing on products with high lead times and high costs for immediate improvements.
-- Balancing efforts to reduce lead times with cost considerations to ensure overall profitability.
-- Continuously monitoring and adjusting safety stock and order quantities to align with dynamic demand.
+- Optimize lead times and production processes.
+- Align order quantities with demand to reduce inventory costs.
+- Review and reduce high production and logistics costs.
+- Optimize safety stock levels to free up capital and storage space.
+- Explore logistics optimizations like bulk shipping or consolidated shipments.
 
 
-### Next Steps
+### Conclusion
 
-Further investigation into specific high-cost and high-lead-time products is recommended to identify the underlying causes and develop targeted strategies for improvement. Regular reviews of supply chain performance metrics should be instituted to maintain optimal efficiency and cost-effectiveness.
-
+This analysis provides actionable insights for improving supply chain efficiency and cost-effectiveness, supporting strategic decision-making and operational improvements.
